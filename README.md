@@ -1,5 +1,7 @@
 # Payment Component with Paypal
 
+![Imagen de muestra]("https://raw.githubusercontent.com/RaulprTech/paypal-react-fastapi/master/frontend/Paypal-Button-Image.png")
+
 ## React and FastApi
 
 Este repositorio contiene un componente de pagos con paypal listo para agregar. El frontend se basa en las instrucciones del  [Paypal Developer Portal]("https://developer.paypal.com/sdk/js/configuration/") y el backend usa el [REST API SDK for Python V2]("https://github.com/paypal/Checkout-Python-SDK")
@@ -56,3 +58,4 @@ uvicorn main:app --reload
 * app es el nombre de la variable de FASTAPI inicializada en el archivo main
 
 Para mas informacion consulta la documentacion de [FastAPI]("https://fastapi.tiangolo.com/")
+
