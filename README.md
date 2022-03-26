@@ -1,6 +1,6 @@
 # Payment Component with Paypal
 
-![Imagen de muestra]("https://raw.githubusercontent.com/RaulprTech/paypal-react-fastapi/master/frontend/Paypal-Button-Image.png")
+![Imagen de muestra](https://raw.githubusercontent.com/RaulprTech/paypal-react-fastapi/master/frontend/Paypal-Button-Image.png)
 
 ## React and FastApi
 
