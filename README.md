@@ -48,7 +48,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-### PARA DESPLEGAR USA
+ 4. Para desplegar usa
 
 ```
 uvicorn main:app --reload
