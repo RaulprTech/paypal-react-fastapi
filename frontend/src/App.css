@@ -1,0 +1,33 @@
+
+
+.container {
+  background-color: antiquewhite;
+  min-height: 97vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.card{
+  background-color: aliceblue;
+  min-height: 40vh;
+  min-width: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  border-color: #61d;
+  border-style: ridge;
+  border-radius: 5px;
+}
+
+.header{
+  border-bottom: 1px solid #61d;
+}
+
+.title {
+  color: #61d;
+  font-size: 4vh;
+}
+
