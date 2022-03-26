@@ -33,7 +33,7 @@ Para mas opciones puedes cosultar la documentacion de [Vite]("https://developer.
 1. Crear un ambiente virtual con Python3
 
 ```
-virtualenv env -p python3
+python3 -m venv env
 ```
 
 2. Activar el ambiente virtual
